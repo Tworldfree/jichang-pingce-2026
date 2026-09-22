@@ -18,8 +18,8 @@
 
 **樱花网络** 是一家专注稳定性与性价比的节点订阅服务,主打香港 CN2 GIA 三网优化入口,搭配新加坡、美国落地节点,支持 V2ray / Trojan / Shadowsocks 全协议接入,适合对延迟敏感、需要稳定回国线路的用户。
 
-- **官网:** https://jindy.cc.cd
-- **Telegram:** [@@yinghuavpn](https://t.me/yinghuavpn)
+- **官网:** (https://ying.jindy.cc.cd)
+- **Telegram:** (https://t.me/ingfavip)
 
 ---
 
@@ -92,9 +92,9 @@ CN2 GIA 是中国电信面向国际优化的高质量线路,相比普通 BGP 中
 
 如有问题或建议,欢迎通过以下方式联系:
 
-- Telegram: [@yinghuavpn](https://t.me/yinghuavpn)
+- Telegram: https://t.me/ingfavip
 
-- 官网: https://jindy.cc.cd
+- 官网: https://ying.jindy.cc.cd
 ---
 
 *本仓库持续更新实测数据,建议 Star/Watch 以便获取最新动态。*
