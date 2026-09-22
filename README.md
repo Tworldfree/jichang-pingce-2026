@@ -45,7 +45,9 @@
 
 ### 协议与客户端兼容性
 
-采用Vless+reality主流加密协议落地,可根据设备类型和网络环境自由选择客户端(如 v2rayN、Clash、Shadowrocket 等主流工具均可正常接入),跨平台兼容性好。
+使用的是目前抗封锁能力最强的四层透传+vless reality协议，兼容性没遇到什么问题，关键是这么好的机场，落地节点的纯净度和解锁能力还是非常不错的，这有点超乎想象
+<img width="546" height="668" alt="image" src="https://github.com/user-attachments/assets/faf28f63-3a05-48b4-b995-59d3667e239f" />
+
 
 ### 支付体验
 
